@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyas18-h
-- 👀 I’m interested in Web develoment
+- 👀 I have good knowledge in Web develoment
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on with other programmer who had good hand experiance in Web-Development. 
 - 📫 How to reach me - at hedashreyas5@gmail.com
